@@ -10,8 +10,8 @@ This repository contains a collection of backend practice projects built using *
 - **BlogApp**  
   A basic CRUD blog application that allows users to create, read, update, and delete blog posts. Includes MongoDB for data storage and Express for routing.
 
-- **FileUpload**  
-  A simple backend project demonstrating how to upload files (e.g., images, PDFs) using Multer in Express.js and store them locally or in cloud storage.
+- **FileUpload**
+  A simple backend project demonstrating how to upload files (e.g., images, PDFs) using Multer in Express.js and store them locally or on Cloudinary cloud storage.
 
 - **TodoApp**  
   A to-do list backend with full CRUD functionality. Users can create, edit, delete, and mark tasks as complete. Built with RESTful API design.
